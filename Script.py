@@ -9,13 +9,13 @@ class script(object):
 
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
+    ABOUT_TXT = """<b>✯ mʏ nᴀᴍᴇ : {}</b>
 
 <b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/zeeroworld> miyuki </a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/psycho_association> psycho network 👾</a></b>
+<b>✯ network : <a href=https://t.me/psycho_association> psycho network 👾</a></b>
 
-<b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
+<b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT ="""
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ Aɴ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
