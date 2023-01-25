@@ -49,7 +49,7 @@
 
 - [x] /delg - ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪғɪᴄ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ
 
-## TG Bot [@CyniteBackup](t.me/CyniteBackup)
+## TG Bot [@psycho_association](t.me/psycho_association)
 
 ## Credits 
 
