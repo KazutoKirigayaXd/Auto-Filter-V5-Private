@@ -192,9 +192,9 @@ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ 🤧</b>
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ:- Cynite
-ᴜsᴇʀɴᴀᴍᴇ:- @devils_chats
-ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ:- <a href='https://t.me/devils_chats'>Cynite</a></b>
+• ꜰᴜʟʟ ɴᴀᴍᴇ:- Miyuki
+ᴜsᴇʀɴᴀᴍᴇ:- @miyuki_senpai
+ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ:- <a href='https://t.me/zeeroworld'>miyuki</a></b>
 """
 
     CYNITE_IMDB = """
@@ -223,7 +223,7 @@ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ 🤧</b>
 
 <b>Exᴀᴍᴘʟᴇ:</b>
 <code>/batch https://t.me/movies_7x
-https://t.me/CyniteBackup </code>
+https://t.me/movies_7x </code>
 """
 
     CYNITE_CNL = """
@@ -424,7 +424,7 @@ Kɪɴᴅʟʏ Cʜᴇᴄᴋ Tʜᴇ Bᴏᴛ Bᴇғᴏʀᴇ Rᴇǫᴜᴇsᴛɪɴɢ.<
 
 🔅 Pᴏᴡᴇʀᴇᴅ Bʏ :- {}
 
-<a href='https://t.me/Cynitebackup'>‣ Tʜɪs Mᴇssᴀɢᴇ Wɪʟʟ ʙᴇ Aᴜᴛᴏ-Dᴇʟᴇᴛᴇᴅ Aғᴛᴇʀ 5 Mɪɴᴜᴛᴇs. Kɪɴᴅʟʏ Fᴏʀᴡᴀʀᴅ Yᴏᴜʀ Fɪʟᴇs Tᴏ Sᴀᴠᴇᴅ.</a></b>"""
+<a href='https://t.me/movies_7x'>‣ Tʜɪs Mᴇssᴀɢᴇ Wɪʟʟ ʙᴇ Aᴜᴛᴏ-Dᴇʟᴇᴛᴇᴅ Aғᴛᴇʀ 5 Mɪɴᴜᴛᴇs. Kɪɴᴅʟʏ Fᴏʀᴡᴀʀᴅ Yᴏᴜʀ Fɪʟᴇs Tᴏ Sᴀᴠᴇᴅ.</a></b>"""
 
     FILE_READY_TXT = """
 <b>Hᴇʏ {}
